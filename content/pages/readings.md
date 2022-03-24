@@ -48,7 +48,7 @@ Techniques in futurology
 {{< tdopen >}}
 
 
-Meadows, Donella, Jorgen Randers, and Dennis Meadows. _A Synopsis to Limits to Growth: The 30-Year Update_. White River Junction, VT: Chelsea Green, 2004. ISBN: 9781931498586. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.liege.mpoc.be/livres/Meadows-Dennis_Limits-to-growth_A-synopsis-28p_2004.pdf))
+Meadows, Donella, Jorgen Randers, and Dennis Meadows. _A Synopsis to Limits to Growth: The 30-Year Update_. White River Junction, VT: Chelsea Green, 2004. ISBN: 9781931498586. ([PDF](http://www.liege.mpoc.be/livres/Meadows-Dennis_Limits-to-growth_A-synopsis-28p_2004.pdf))
 
 Senge, Peter. M. Chapter 4 and Appendix 2 in _The Fifth Discipline: The Art & Practice of the Learning Organization_. New York, NY: Broadway Business, 2006. ISBN: 9780385517256.
 
@@ -68,7 +68,7 @@ Historigraphic theories: class struggle, cycles, and paradigm shifts
 
 Strauss, W., and N. Howe. "Cycles in History," and "A Fourth Turning Prophesy." Chapters 4 and 10 in _The Fourth Turning_. New York, NY: Broadway Books, 1997. ISBN: 9780767900461.
 
-FutureWatch Timeline (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.1MB](http://www.math.yorku.ca/SCS/Gallery/images/timelines/futureswatch-org.pdf))
+FutureWatch Timeline ([PDF - 1.1MB](http://www.math.yorku.ca/SCS/Gallery/images/timelines/futureswatch-org.pdf))
 
 
 {{< tdclose >}}
@@ -136,7 +136,7 @@ Marx, Karl, and Friedrich Engels. [The Communist Manifesto](http://www.marxists.
 Future politics
 {{< tdclose >}}
 {{< tdopen >}}
-National Intelligence Council, "The Contradictions of Globalization," and "Rising Powers: The Changing Geopolitical Landscape." Chapters 1 and 2 in _Mapping the Global Future_. Washington, D. C., December 2004. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 7.3MB](http://www.dni.gov/files/documents/Global%20Trends_Mapping%20the%20Global%20Future%202020%20Project.pdf))
+National Intelligence Council, "The Contradictions of Globalization," and "Rising Powers: The Changing Geopolitical Landscape." Chapters 1 and 2 in _Mapping the Global Future_. Washington, D. C., December 2004. ([PDF - 7.3MB](http://www.dni.gov/files/documents/Global%20Trends_Mapping%20the%20Global%20Future%202020%20Project.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}

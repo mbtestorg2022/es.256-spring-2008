@@ -126,7 +126,7 @@ World changing, revelations, and revolutions
 Future politics
 {{< tdclose >}}
 {{< tdopen >}}
-Excerpts from _Mapping the Global Future_ (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 7.3MB](http://www.dni.gov/files/documents/Global%20Trends_Mapping%20the%20Global%20Future%202020%20Project.pdf)) The Executive Summary, Chapters 1 ("The Contradictions of Globalization") and 2 ("Rising Powers: The Changing Geopolitical Landscape").
+Excerpts from _Mapping the Global Future_ ([PDF - 7.3MB](http://www.dni.gov/files/documents/Global%20Trends_Mapping%20the%20Global%20Future%202020%20Project.pdf)) The Executive Summary, Chapters 1 ("The Contradictions of Globalization") and 2 ("Rising Powers: The Changing Geopolitical Landscape").
 {{< tdclose >}}
 
 {{< trclose >}}
